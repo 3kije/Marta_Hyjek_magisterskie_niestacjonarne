@@ -100,7 +100,7 @@ MonoBehaviour:
   m_MinSize: {x: 333, y: 271}
   m_MaxSize: {x: 14003, y: 10021}
   vertical: 0
-  controlID: 116
+  controlID: 85
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -125,7 +125,7 @@ MonoBehaviour:
   m_MinSize: {x: 881, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 18
+  controlID: 125
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -303,7 +303,7 @@ MonoBehaviour:
   m_MinSize: {x: 605, y: 492}
   m_MaxSize: {x: 14003, y: 14042}
   vertical: 1
-  controlID: 52
+  controlID: 126
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -329,7 +329,7 @@ MonoBehaviour:
   m_MinSize: {x: 605, y: 221}
   m_MaxSize: {x: 12005, y: 4021}
   vertical: 0
-  controlID: 53
+  controlID: 127
 --- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -663,7 +663,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: D:\Unity_projects\Scena na zaliczenie Hyjek Marta
+  m_LastProjectPath: D:\Unity_projects\Marta_Hyjek_magisterskie_niestacjonarne
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -819,8 +819,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
+      m_SelectedIDs: eef7ffff
+      m_LastClickedID: -2066
       m_ExpandedIDs: 24fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -881,9 +881,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 19.550388, y: -28.554192, z: -25.05828}
+    m_Target: {x: 15.831365, y: -19.270056, z: -37.58824}
     speed: 2
-    m_Value: {x: 19.550388, y: -28.554192, z: -25.05828}
+    m_Value: {x: 15.831365, y: -19.270056, z: -37.58824}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -930,13 +930,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.10118794, y: 0.87623435, z: -0.422016, w: 0.21036264}
+    m_Target: {x: 0.017686652, y: 0.9461055, z: -0.3196502, w: 0.05265179}
     speed: 2
-    m_Value: {x: 0.10085356, y: 0.8767018, z: -0.42062214, w: 0.21047457}
+    m_Value: {x: 0.021016598, y: 0.94299304, z: -0.3264995, w: 0.060997184}
   m_Size:
-    m_Target: 24.37304
+    m_Target: 22.94831
     speed: 2
-    m_Value: 24.37304
+    m_Value: 24.029644
   m_Ortho:
     m_Target: 0
     speed: 2
